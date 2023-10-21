@@ -1,0 +1,37 @@
+.navbar-nav{
+    justify-self: center;
+}
+.pol{
+    background-color:  #F6FCF6;
+}
+.at1{
+    line-height: 25px;
+    color: #828282;
+    ;
+}
+.firstimage{
+    max-width: 450px;
+}
+.secondimage{
+    max-width: 450px;
+}
+.at2{
+    line-height: 25px;
+    color: #828282;
+}
+.Asm1{
+    color: #18071C;
+    margin-left: 90px;
+}
+.Asm2{
+    line-height: 30px; 
+    margin-left: 90px;
+}
+.Asm3{
+    margin-left: 90px;
+}
+.Asm4{
+    margin-left: 90px;
+    color: #18840D;
+
+}
